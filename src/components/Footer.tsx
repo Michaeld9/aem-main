@@ -33,7 +33,7 @@ export default function Footer() {
             <div className="flex items-center space-x-3 mb-4">
               <div className="w-40 h-40 bg-gradient-to-br from-cyan-400 to-blue-600 rounded-lg flex items-center justify-center">
                <img
-                  src="./images/aemlogo.png"
+                  src="/new/saw/images/aemlogo.png"
                   alt="Logo A&M"
                   className="w-full h-full object-cover"
                 />
